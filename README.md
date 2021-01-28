@@ -1,5 +1,5 @@
-# 🤖vira bot🤖
-BOT WHATSAPP TERMUX ONLY BY FERDIZ-afk
+# 🤖fian bot🤖
+BOT WHATSAPP TERMUX ONLY BY Fian014
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -14,7 +14,7 @@ Siapin alat dan bahannya.
 ```
 
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri Fian014.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik program dibawah ini!
@@ -60,7 +60,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Donate                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Ferza-afk)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Ferza-afk) &(Fian014)
 
 ## Sosial Media Admin
 
